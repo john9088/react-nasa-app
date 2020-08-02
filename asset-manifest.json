@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/react-nasa-app/static/css/main.44ca5b42.chunk.css",
-    "main.js": "/react-nasa-app/static/js/main.12863038.chunk.js",
-    "main.js.map": "/react-nasa-app/static/js/main.12863038.chunk.js.map",
+    "main.css": "/react-nasa-app/static/css/main.3aa317b8.chunk.css",
+    "main.js": "/react-nasa-app/static/js/main.1855f7d8.chunk.js",
+    "main.js.map": "/react-nasa-app/static/js/main.1855f7d8.chunk.js.map",
     "runtime-main.js": "/react-nasa-app/static/js/runtime-main.c074343a.js",
     "runtime-main.js.map": "/react-nasa-app/static/js/runtime-main.c074343a.js.map",
-    "static/js/2.66fa8c39.chunk.js": "/react-nasa-app/static/js/2.66fa8c39.chunk.js",
-    "static/js/2.66fa8c39.chunk.js.map": "/react-nasa-app/static/js/2.66fa8c39.chunk.js.map",
+    "static/js/2.5fc28e4c.chunk.js": "/react-nasa-app/static/js/2.5fc28e4c.chunk.js",
+    "static/js/2.5fc28e4c.chunk.js.map": "/react-nasa-app/static/js/2.5fc28e4c.chunk.js.map",
     "index.html": "/react-nasa-app/index.html",
-    "precache-manifest.05ed9d7e22dfb9812cfc880de11a3944.js": "/react-nasa-app/precache-manifest.05ed9d7e22dfb9812cfc880de11a3944.js",
+    "precache-manifest.22930f3107f4c5b5174b8900a6602fae.js": "/react-nasa-app/precache-manifest.22930f3107f4c5b5174b8900a6602fae.js",
     "service-worker.js": "/react-nasa-app/service-worker.js",
-    "static/css/main.44ca5b42.chunk.css.map": "/react-nasa-app/static/css/main.44ca5b42.chunk.css.map",
-    "static/js/2.66fa8c39.chunk.js.LICENSE.txt": "/react-nasa-app/static/js/2.66fa8c39.chunk.js.LICENSE.txt"
+    "static/css/main.3aa317b8.chunk.css.map": "/react-nasa-app/static/css/main.3aa317b8.chunk.css.map",
+    "static/js/2.5fc28e4c.chunk.js.LICENSE.txt": "/react-nasa-app/static/js/2.5fc28e4c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-nasa-app/static/media/bg-img.51ccfbc3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c074343a.js",
-    "static/js/2.66fa8c39.chunk.js",
-    "static/css/main.44ca5b42.chunk.css",
-    "static/js/main.12863038.chunk.js"
+    "static/js/2.5fc28e4c.chunk.js",
+    "static/css/main.3aa317b8.chunk.css",
+    "static/js/main.1855f7d8.chunk.js"
   ]
 }
