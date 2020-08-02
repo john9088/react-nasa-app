@@ -4,8 +4,8 @@ import Nasa from "./nasa.js";
 
 function App() {
   const [desc, setDesc] = useState([]);
-  const [query, setQuery] = useState("nasa");
-  let search = "";
+  let [search, setSearch] = useState("");
+  const [query, setQuery] = useState("dark%20energy");
 
   const request = `https://images-api.nasa.gov/search?q=${query}&media_type=image`;
 
@@ -21,8 +21,8 @@ function App() {
     console.log(desc);
   };
   //setQuery(search);
-  const setSearch = (e) => {
-    search = e.target.value;
+  const updateSearch = (e) => {
+    setSearch(e.target.value);
   };
 
   const getQuery = (e) => {
@@ -40,7 +40,8 @@ function App() {
           className="search-field"
           type="text"
           placeholder="Search..."
-          onChange={setSearch}
+          onChange={updateSearch}
+          value={search}
         />
         <button className="search-btn" type="submit">
           Enter
