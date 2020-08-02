@@ -30,7 +30,7 @@ function App() {
     search = search.toUpperCase();
     search = search.replace(" ", "%20");
     setQuery(search);
-    search = "";
+    setSearch("");
   };
 
   return (
