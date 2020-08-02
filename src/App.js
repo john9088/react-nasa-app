@@ -14,11 +14,9 @@ function App() {
   }, [query]);
 
   const getDesc = async () => {
-    console.log(request);
     const response = await fetch(request);
     const data = await response.json();
     setDesc(data.collection.items.slice(0, 15));
-    console.log(desc);
   };
   //setQuery(search);
   const updateSearch = (e) => {
